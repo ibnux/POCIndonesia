@@ -1,5 +1,14 @@
 {
-  "indonesia" : "",
-  "banten" : "",
-  "trijaya" : ""
+  "INDONESIA" : {
+    "version" : "10",
+    "url": ""
+  },
+  "BANTEN" : {
+    "version" : "10",
+    "url": ""
+  },
+  "TRIJAYA" : {
+    "version" : "10",
+    "url": ""
+  }
 }
