@@ -1,18 +1,18 @@
 {
   "INDONESIA" : {
-    "version" : 44,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/44/pocindonesia-release_44.apk"
+    "version" : 45,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/45/pocindonesia-release_45.apk"
   },
   "BANTEN" : {
-    "version" : 44,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/44/pocbanten-release_44.apk"
+    "version" : 45,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/45/pocbanten-release_45.apk"
   },
   "TRIJAYA" : {
-    "version" : 44,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/44/trijaya-release_44.apk"
+    "version" : 45,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/45/trijaya-release_45.apk"
   },
   "DEKGUS" : {
-    "version" : 44,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/44/dekgus-release_44.apk"
+    "version" : 45,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/45/dekgus-release_45.apk"
   }
 }
