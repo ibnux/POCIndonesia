@@ -14,5 +14,9 @@
   "DEKGUS" : {
     "version" : 48,
     "url": "https://github.com/ibnux/POCIndonesia/releases/download/48/dekgus-release_48.apk"
+  },
+  "KOM2BALI" : {
+    "version" : 48,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/48/kom2bali-release_48.apk"
   }
 }
