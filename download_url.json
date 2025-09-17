@@ -1,22 +1,26 @@
 {
   "INDONESIA" : {
-    "version" : 51,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/51/pocindonesia-release_51.apk"
+    "version" : 52,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/52/pocindonesia-release_52.apk"
   },
   "BANTEN" : {
-    "version" : 51,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/51/pocbanten-release_51.apk"
+    "version" : 52,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/52/pocbanten-release_52.apk"
   },
   "TRIJAYA" : {
-    "version" : 51,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/51/trijaya-release_51.apk"
+    "version" : 52,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/52/trijaya-release_52.apk"
   },
   "DEKGUS" : {
-    "version" : 51,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/51/dekgus-release_51.apk"
+    "version" : 52,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/52/dekgus-release_52.apk"
   },
   "KOM2BALI" : {
-    "version" : 51,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/51/kom2bali-release_51.apk"
+    "version" : 52,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/52/kom2bali-release_52.apk"
+  },
+  "ASF NUSANTARA" : {
+    "version" : 52,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/52/asf-release_52.apk"
   }
 }
