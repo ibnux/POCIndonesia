@@ -1,26 +1,50 @@
 {
   "INDONESIA" : {
-    "version" : 52,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/52/pocindonesia-release_52.apk"
+    "version" : 53,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/53/pocindonesia-release_53.apk"
   },
   "BANTEN" : {
-    "version" : 52,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/52/pocbanten-release_52.apk"
+    "version" : 53,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/53/pocbanten-release_53.apk"
   },
   "TRIJAYA" : {
-    "version" : 52,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/52/trijaya-release_52.apk"
+    "version" : 53,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/53/trijaya-release_53.apk"
   },
   "DEKGUS" : {
-    "version" : 52,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/52/dekgus-release_52.apk"
+    "version" : 53,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/53/dekgus-release_53.apk"
   },
   "KOM2BALI" : {
-    "version" : 52,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/52/kom2bali-release_52.apk"
+    "version" : 53,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/53/kom2bali-release_53.apk"
   },
   "ASF NUSANTARA" : {
-    "version" : 52,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/52/asf-release_52.apk"
+    "version" : 53,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/53/asf-release_53.apk"
+  },
+  "INDONESIA KITKAT" : {
+    "version" : 53,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/53/pocindonesia_kitkat-release_53.apk"
+  },
+  "BANTEN KITKAT" : {
+    "version" : 53,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/53/pocbanten_kitkat-release_53.apk"
+  },
+  "TRIJAYA KITKAT" : {
+    "version" : 53,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/53/trijaya_kitkat-release_53.apk"
+  },
+  "DEKGUS KITKAT" : {
+    "version" : 53,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/53/dekgus_kitkat-release_53.apk"
+  },
+  "KOM2BALI KITKAT" : {
+    "version" : 53,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/53/kom2bali_kitkat-release_53.apk"
+  },
+  "ASF NUSANTARA KITKAT" : {
+    "version" : 53,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/53/asf_kitkat-release_53.apk"
   }
 }
