@@ -58,5 +58,9 @@
   "ASF NUSANTARA KITKAT" : {
     "version" : 53,
     "url": "https://github.com/ibnux/POCIndonesia/releases/download/53/asf_kitkat-release_53.apk"
+  },
+  "Nux Launcher" : {
+    "version" : 10,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/61/NuxLauncher_10.apk"
   }
 }
