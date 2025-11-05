@@ -35,6 +35,10 @@
     "version" : 64,
     "url": "https://github.com/ibnux/POCIndonesia/releases/download/64/btbbaznas-release_64.apk"
   },
+  "SHT POC COMMUNITY" : {
+    "version" : 64,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/64/shtpoc-release_64.apk"
+  },
   "INDONESIA KITKAT" : {
     "version" : 53,
     "url": "https://github.com/ibnux/POCIndonesia/releases/download/53/pocindonesia_kitkat-release_53.apk"
