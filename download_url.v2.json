@@ -1,0 +1,107 @@
+{
+  "com.ibnux.pocindonesia" : {
+    "name" : "INDONESIA",
+    "version" : 70,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/pocindonesia-release_70.apk"
+  },
+  "com.ibnux.pocindonesia.osaka" : {
+    "name" : "INDONESIA OSAKA",
+    "version" : 70,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/pocindonesiaosaka-release_70.apk"
+  },
+  "com.ibnux.pocbanten" : {
+    "name" : "BANTEN",
+    "version" : 70,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/pocbanten-release_70.apk"
+  },
+  "com.ibnux.trijaya" : {
+    "name" : "TRIJAYA",
+    "version" : 70,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/trijaya-release_70.apk"
+  },
+  "com.ibnux.poc.dekgus" : {
+    "name" : "DEKGUS",
+    "version" : 70,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/dekgus-release_70.apk"
+  },
+  "com.ibnux.poc.kom2bali" : {
+    "name" : "KOM2BALI",
+    "version" : 70,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/kom2bali-release_70.apk"
+  },
+  "com.ibnux.poc.asf" : {
+    "name" : "ASF NUSANTARA",
+    "version" : 70,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/asf-release_70.apk"
+  },
+  "com.ibnux.poc.rapi.kutim" : {
+    "name" : "RAPI KUTIM",
+    "version" : 70,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/rapikutim-release_70.apk"
+  },
+  "com.ibnux.poc.btb.baznas" : {
+    "name" : "BTB BAZNAS",
+    "version" : 70,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/btbbaznas-release_70.apk"
+  },
+  "com.ibnux.poc.sht.poc" : {
+    "name" : "SHT POC COMMUNITY",
+    "version" : 70,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/shtpoc-release_70.apk"
+  },
+  "com.ibnux.pocindonesia.kitkat" : {
+    "name" : "INDONESIA KITKAT",
+    "version" : 70,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/pocindonesia_kitkat-release_70.apk"
+  },
+  "com.ibnux.pocbanten.kitkat" : {
+    "name" : "BANTEN KITKAT",
+    "version" : 70,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/pocbanten_kitkat-release_70.apk"
+  },
+  "com.ibnux.trijaya.kitkat" : {
+    "name" : "TRIJAYA KITKAT",
+    "version" : 70,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/trijaya_kitkat-release_70.apk"
+  },
+  "com.ibnux.poc.dekgus.kitkat" : {
+    "name" : "DEKGUS KITKAT",
+    "version" : 70,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/dekgus_kitkat-release_70.apk"
+  },
+  "com.ibnux.poc.kom2bali.kitkat" : {
+    "name" : "KOM2BALI KITKAT",
+    "version" : 70,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/kom2bali_kitkat-release_70.apk"
+  },
+  "com.ibnux.poc.asf.kitkat" : {
+    "name" : "ASF NUSANTARA KITKAT",
+    "version" : 70,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/asf_kitkat-release_70.apk"
+  },
+  "com.ibnux.poc.rapi.kutim.kitkat" : {
+    "name" : "RAPI KUTIM KITKAT",
+    "version" : 70,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/rapikutim_kitkat-release_70.apk"
+  },
+  "com.ibnux.poc.btb.baznas.kitkat" : {
+    "name" : "BTB BAZNAS KITKAT",
+    "version" : 70,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/btbbaznas_kitkat-release_70.apk"
+  },
+  "com.ibnux.poc.sht.poc.kitkat" : {
+    "name" : "SHT POC COMMUNITY KITKAT",
+    "version" : 70,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/shtpoc_kitkat-release_70.apk"
+  },
+  "com.loudtalks" : {
+    "name" : "POC Indonesia Loudtalks",
+    "version" : 15,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/loudtalks-release_70.apk"
+  },
+  "com.ibnux." : {
+    "name" : "Nux Launcher",
+    "version" : 15,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/64/NuxLauncher_15.apk"
+  }
+}
