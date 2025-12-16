@@ -99,7 +99,7 @@
     "version" : 15,
     "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/loudtalks-release_70.apk"
   },
-  "com.ibnux." : {
+  "com.ibnux.launcher" : {
     "name" : "Nux Launcher",
     "version" : 15,
     "url": "https://github.com/ibnux/POCIndonesia/releases/download/64/NuxLauncher_15.apk"
