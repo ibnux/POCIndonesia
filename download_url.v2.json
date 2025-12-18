@@ -1,23 +1,23 @@
 {
   "com.ibnux.pocindonesia" : {
     "name" : "INDONESIA",
-    "version" : 70,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/pocindonesia-release_70.apk"
+    "version" : 71,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/71/pocindonesia-release_71.apk"
   },
   "com.ibnux.pocindonesia.osaka" : {
     "name" : "INDONESIA OSAKA",
-    "version" : 70,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/pocindonesiaosaka-release_70.apk"
+    "version" : 71,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/71/pocindonesiaosaka-release_71.apk"
   },
   "com.ibnux.pocbanten" : {
     "name" : "BANTEN",
-    "version" : 70,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/pocbanten-release_70.apk"
+    "version" : 71,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/71/pocbanten-release_71.apk"
   },
   "com.ibnux.trijaya" : {
     "name" : "TRIJAYA",
-    "version" : 70,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/trijaya-release_70.apk"
+    "version" : 71,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/71/trijaya-release_71.apk"
   },
   "com.ibnux.poc.dekgus" : {
     "name" : "DEKGUS",
@@ -48,6 +48,11 @@
     "name" : "SHT POC COMMUNITY",
     "version" : 70,
     "url": "https://github.com/ibnux/POCIndonesia/releases/download/70/shtpoc-release_70.apk"
+  },
+  "com.ibnux.poc.self" : {
+    "name" : "POC INDONESIA LOKAL SERVER",
+    "version" : 71,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/71/shtpoc-release_71.apk"
   },
   "com.ibnux.pocindonesia.kitkat" : {
     "name" : "INDONESIA KITKAT",
