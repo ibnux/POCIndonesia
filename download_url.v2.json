@@ -54,11 +54,6 @@
     "version" : 71,
     "url": "https://github.com/ibnux/POCIndonesia/releases/download/71/shtpoc-release_71.apk"
   },
-  "com.ibnux.poc.self" : {
-    "name" : "POC INDONESIA LOKAL SERVER",
-    "version" : 71,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/71/pocself-release_71.apk"
-  },
   "com.ibnux.poc.global" : {
     "name" : "POC GLOBAL",
     "version" : 71,
