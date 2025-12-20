@@ -59,6 +59,11 @@
     "version" : 71,
     "url": "https://github.com/ibnux/POCIndonesia/releases/download/71/pocself-release_71.apk"
   },
+  "com.ibnux.poc.global" : {
+    "name" : "POC GLOBAL",
+    "version" : 71,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/71/pocglobal-release_71.apk"
+  },
   "com.ibnux.pocindonesia.kitkat" : {
     "name" : "INDONESIA KITKAT",
     "version" : 71,
