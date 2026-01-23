@@ -1,63 +1,63 @@
 {
   "com.ibnux.pocindonesia" : {
     "name" : "INDONESIA",
-    "version" : 85,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/85/pocindonesia-release_85.apk"
+    "version" : 86,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/86/pocindonesia-release_86.apk"
   },
   "com.ibnux.pocindonesia.osaka" : {
     "name" : "INDONESIA OSAKA",
-    "version" : 85,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/85/pocindonesiaosaka-release_85.apk"
+    "version" : 86,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/86/pocindonesiaosaka-release_86.apk"
   },
   "com.ibnux.pocbanten" : {
     "name" : "BANTEN",
-    "version" : 85,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/85/pocbanten-release_85.apk"
+    "version" : 86,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/86/pocbanten-release_86.apk"
   },
   "com.ibnux.trijaya" : {
     "name" : "TRIJAYA",
-    "version" : 85,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/85/trijaya-release_85.apk"
+    "version" : 86,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/86/trijaya-release_86.apk"
   },
   "com.ibnux.poc.self" : {
     "name" : "POC INDONESIA LOKAL SERVER",
-    "version" : 85,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/85/pocself-release_85.apk"
+    "version" : 86,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/86/pocself-release_86.apk"
   },
   "com.ibnux.poc.dekgus" : {
     "name" : "DEKGUS",
-    "version" : 85,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/85/dekgus-release_85.apk"
+    "version" : 86,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/86/dekgus-release_86.apk"
   },
   "com.ibnux.poc.kom2bali" : {
     "name" : "KOM2BALI",
-    "version" : 85,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/85/kom2bali-release_85.apk"
+    "version" : 86,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/86/kom2bali-release_86.apk"
   },
   "com.ibnux.poc.asf" : {
     "name" : "ASF NUSANTARA",
-    "version" : 85,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/85/asf-release_85.apk"
+    "version" : 86,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/86/asf-release_86.apk"
   },
   "com.ibnux.poc.rapi.kutim" : {
     "name" : "RAPI KUTIM",
-    "version" : 85,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/85/rapikutim-release_85.apk"
+    "version" : 86,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/86/rapikutim-release_86.apk"
   },
   "com.ibnux.poc.btb.baznas" : {
     "name" : "BTB BAZNAS",
-    "version" : 85,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/85/btbbaznas-release_85.apk"
+    "version" : 86,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/86/btbbaznas-release_86.apk"
   },
   "com.ibnux.poc.sht.poc" : {
     "name" : "SHT POC COMMUNITY",
-    "version" : 85,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/85/shtpoc-release_85.apk"
+    "version" : 86,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/86/shtpoc-release_86.apk"
   },
   "com.ibnux.poc.global" : {
     "name" : "POC GLOBAL",
-    "version" : 85,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/85/pocglobal-release_85.apk"
+    "version" : 86,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/86/pocglobal-release_86.apk"
   },
   "com.ibnux.poc.global.kitkat" : {
     "name" : "POC GLOBAL KITKAT",
