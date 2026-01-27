@@ -1,80 +1,42 @@
 {
   "INDONESIA" : {
-    "version" : 86,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/86/pocindonesia-release_86.apk"
+    "version" : 87,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/pocindonesia-release_87.apk"
   },
   "INDONESIA OSAKA" : {
-    "version" : 86,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/86/pocindonesiaosaka-release_86.apk"
+    "version" : 87,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/pocindonesiaosaka-release_87.apk"
   },
   "BANTEN" : {
-    "version" : 86,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/86/pocbanten-release_86.apk"
+    "version" : 87,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/pocbanten-release_87.apk"
   },
   "TRIJAYA" : {
-    "version" : 86,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/86/trijaya-release_86.apk"
+    "version" : 87,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/trijaya-release_87.apk"
   },
   "DEKGUS" : {
-    "version" : 86,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/86/dekgus-release_86.apk"
+    "version" : 87,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/dekgus-release_87.apk"
   },
   "KOM2BALI" : {
-    "version" : 86,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/86/kom2bali-release_86.apk"
+    "version" : 87,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/kom2bali-release_87.apk"
   },
   "ASF NUSANTARA" : {
-    "version" : 86,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/86/asf-release_86.apk"
+    "version" : 87,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/asf-release_87.apk"
   },
   "RAPI KUTIM" : {
-    "version" : 86,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/86/rapikutim-release_86.apk"
+    "version" : 87,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/rapikutim-release_87.apk"
   },
   "BTB BAZNAS" : {
-    "version" : 86,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/86/btbbaznas-release_86.apk"
+    "version" : 87,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/btbbaznas-release_87.apk"
   },
   "SHT POC COMMUNITY" : {
-    "version" : 86,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/86/shtpoc-release_86.apk"
-  },
-  "INDONESIA KITKAT" : {
-    "version" : 84,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/84/pocindonesia_kitkat-release_84.apk"
-  },
-  "BANTEN KITKAT" : {
-    "version" : 84,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/84/pocbanten_kitkat-release_84.apk"
-  },
-  "TRIJAYA KITKAT" : {
-    "version" : 84,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/84/trijaya_kitkat-release_84.apk"
-  },
-  "DEKGUS KITKAT" : {
-    "version" : 84,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/84/dekgus_kitkat-release_84.apk"
-  },
-  "KOM2BALI KITKAT" : {
-    "version" : 84,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/84/kom2bali_kitkat-release_84.apk"
-  },
-  "ASF NUSANTARA KITKAT" : {
-    "version" : 84,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/84/asf_kitkat-release_84.apk"
-  },
-  "RAPI KUTIM KITKAT" : {
-    "version" : 84,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/84/rapikutim_kitkat-release_84.apk"
-  },
-  "BTB BAZNAS KITKAT" : {
-    "version" : 84,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/84/btbbaznas_kitkat-release_84.apk"
-  },
-  "SHT POC COMMUNITY KITKAT" : {
-    "version" : 84,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/84/shtpoc_kitkat-release_84.apk"
-  },
+    "version" : 87,
   "Nux Launcher" : {
     "version" : 15,
     "url": "https://github.com/ibnux/POCIndonesia/releases/download/64/NuxLauncher_15.apk"
