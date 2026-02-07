@@ -1,73 +1,72 @@
 {
-    "com.ibnux.pocindonesia" : {
-        "name" : "INDONESIA",
-            "version" : 87,
-                "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/pocindonesia-release_87.apk"
-                  },
-                    "com.ibnux.pocindonesia.osaka" : {
-                        "name" : "INDONESIA OSAKA",
-                            "version" : 87,
-                                "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/pocindonesiaosaka-release_87.apk"
-                                  },
-                                    "com.ibnux.pocbanten" : {
-                                        "name" : "BANTEN",
-                                            "version" : 87,
-                                                "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/pocbanten-release_87.apk"
-                                                  },
-                                                    "com.ibnux.trijaya" : {
-                                                        "name" : "TRIJAYA",
-                                                            "version" : 87,
-                                                                "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/trijaya-release_87.apk"
-                                                                  },
-                                                                    "com.ibnux.poc.self" : {
-                                                                        "name" : "POC INDONESIA LOKAL SERVER",
-                                                                            "version" : 87,
-                                                                                "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/pocself-release_87.apk"
-                                                                                  },
-                                                                                    "com.ibnux.poc.dekgus" : {
-                                                                                        "name" : "DEKGUS",
-                                                                                            "version" : 87,
-                                                                                                "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/dekgus-release_87.apk"
-                                                                                                  },
-                                                                                                    "com.ibnux.poc.kom2bali" : {
-                                                                                                        "name" : "KOM2BALI",
-                                                                                                            "version" : 87,
-                                                                                                                "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/kom2bali-release_87.apk"
-                                                                                                                  },
-                                                                                                                    "com.ibnux.poc.asf" : {
-                                                                                                                        "name" : "ASF NUSANTARA",
-                                                                                                                            "version" : 87,
-                                                                                                                                "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/asf-release_87.apk"
-                                                                                                                                  },
-                                                                                                                                    "com.ibnux.poc.rapi.kutim" : {
-                                                                                                                                        "name" : "RAPI KUTIM",
-                                                                                                                                            "version" : 87,
-                                                                                                                                                "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/rapikutim-release_87.apk"
-                                                                                                                                                  },
-                                                                                                                                                    "com.ibnux.poc.btb.baznas" : {
-                                                                                                                                                        "name" : "BTB BAZNAS",
-                                                                                                                                                            "version" : 87,
-                                                                                                                                                                "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/btbbaznas-release_87.apk"
-                                                                                                                                                                  },
-                                                                                                                                                                    "com.ibnux.poc.sht.poc" : {
-                                                                                                                                                                        "name" : "SHT POC COMMUNITY",
-                                                                                                                                                                            "version" : 87,
-                                                                                                                                                                                "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/shtpoc-release_87.apk"
-                                                                                                                                                                                  },
-                                                                                                                                                                                    "com.ibnux.poc.global" : {
-                                                                                                                                                                                        "name" : "POC GLOBAL",
-                                                                                                                                                                                            "version" : 87,
-                                                                                                                                                                                                "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/pocglobal-release_87.apk"
-                                                                                                                                                                                                  },
-                                                                                                                                                                                                    "com.loudtalks" : {
-                                                                                                                                                                                                        "name" : "POC Indonesia Loudtalks",
-                                                                                                                                                                                                            "version" : 87,
-                                                                                                                                                                                                                "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/loudtalks-release_87.apk"
-                                                                                                                                                                                                                  },
-                                                                                                                                                                                                                    "com.ibnux.launcher" : {
-                                                                                                                                                                                                                        "name" : "Nux Launcher",
-                                                                                                                                                                                                                            "version" : 16,
-                                                                                                                                                                                                                                "url": "https://github.com/ibnux/POCIndonesia/releases/download/71/NuxLauncher_16.apk"
-                                                                                                                                                                                                                                  }
-                                                                                                                                                                                                                                  
+  "com.ibnux.pocindonesia": {
+    "name": "INDONESIA",
+    "version": 87,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/pocindonesia-release_87.apk"
+  },
+  "com.ibnux.pocindonesia.osaka": {
+    "name": "INDONESIA OSAKA",
+    "version": 87,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/pocindonesiaosaka-release_87.apk"
+  },
+  "com.ibnux.pocbanten": {
+    "name": "BANTEN",
+    "version": 87,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/pocbanten-release_87.apk"
+  },
+  "com.ibnux.trijaya": {
+    "name": "TRIJAYA",
+    "version": 87,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/trijaya-release_87.apk"
+  },
+  "com.ibnux.poc.self": {
+    "name": "POC INDONESIA LOKAL SERVER",
+    "version": 87,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/pocself-release_87.apk"
+  },
+  "com.ibnux.poc.dekgus": {
+    "name": "DEKGUS",
+    "version": 87,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/dekgus-release_87.apk"
+  },
+  "com.ibnux.poc.kom2bali": {
+    "name": "KOM2BALI",
+    "version": 87,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/kom2bali-release_87.apk"
+  },
+  "com.ibnux.poc.asf": {
+    "name": "ASF NUSANTARA",
+    "version": 87,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/asf-release_87.apk"
+  },
+  "com.ibnux.poc.rapi.kutim": {
+    "name": "RAPI KUTIM",
+    "version": 87,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/rapikutim-release_87.apk"
+  },
+  "com.ibnux.poc.btb.baznas": {
+    "name": "BTB BAZNAS",
+    "version": 87,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/btbbaznas-release_87.apk"
+  },
+  "com.ibnux.poc.sht.poc": {
+    "name": "SHT POC COMMUNITY",
+    "version": 87,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/shtpoc-release_87.apk"
+  },
+  "com.ibnux.poc.global": {
+    "name": "POC GLOBAL",
+    "version": 87,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/pocglobal-release_87.apk"
+  },
+  "com.loudtalks": {
+    "name": "POC Indonesia Loudtalks",
+    "version": 87,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/loudtalks-release_87.apk"
+  },
+  "com.ibnux.launcher": {
+    "name": "Nux Launcher",
+    "version": 16,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/71/NuxLauncher_16.apk"
+  }
 }
