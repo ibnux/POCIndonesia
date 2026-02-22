@@ -1,42 +1,44 @@
 {
   "INDONESIA" : {
-    "version" : 87,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/pocindonesia-release_87.apk"
+    "version" : 88,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/88/pocindonesia-release_88.apk"
   },
   "INDONESIA OSAKA" : {
-    "version" : 87,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/pocindonesiaosaka-release_87.apk"
+    "version" : 88,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/88/pocindonesiaosaka-release_88.apk"
   },
   "BANTEN" : {
-    "version" : 87,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/pocbanten-release_87.apk"
+    "version" : 88,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/88/pocbanten-release_88.apk"
   },
   "TRIJAYA" : {
-    "version" : 87,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/trijaya-release_87.apk"
+    "version" : 88,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/88/trijaya-release_88.apk"
   },
   "DEKGUS" : {
-    "version" : 87,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/dekgus-release_87.apk"
+    "version" : 88,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/88/dekgus-release_88.apk"
   },
   "KOM2BALI" : {
-    "version" : 87,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/kom2bali-release_87.apk"
+    "version" : 88,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/88/kom2bali-release_88.apk"
   },
   "ASF NUSANTARA" : {
-    "version" : 87,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/asf-release_87.apk"
+    "version" : 88,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/88/asf-release_88.apk"
   },
   "RAPI KUTIM" : {
-    "version" : 87,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/rapikutim-release_87.apk"
+    "version" : 88,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/88/rapikutim-release_88.apk"
   },
   "BTB BAZNAS" : {
-    "version" : 87,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/87/btbbaznas-release_87.apk"
+    "version" : 88,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/88/btbbaznas-release_88.apk"
   },
-  "SHT POC COMMUNITY" : {
-    "version" : 87,
+  "HT POC COMMUNITY" : {
+    "version" : 88,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/88/shtpoc-release_88.apk"
+  },
   "Nux Launcher" : {
     "version" : 15,
     "url": "https://github.com/ibnux/POCIndonesia/releases/download/64/NuxLauncher_15.apk"
