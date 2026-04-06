@@ -59,6 +59,11 @@
     "version": 95,
     "url": "https://github.com/ibnux/POCIndonesia/releases/download/95/loudtalks-release_95.apk"
   },
+  "com.ibnux.poc.lite": {
+    "name": "POC NUX",
+    "version": 95,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/95/pocnux-release_95.apk"
+  },
   "com.ibnux.launcher": {
     "name": "Nux Launcher",
     "version": 16,
