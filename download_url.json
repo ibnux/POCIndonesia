@@ -39,8 +39,16 @@
     "version" : 95,
     "url": "https://github.com/ibnux/POCIndonesia/releases/download/95/shtpoc-release_95.apk"
   },
+  "POC NUX": {
+    "version": 95,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/95/pocnux-release_95.apk"
+  },
   "Nux Launcher" : {
     "version" : 15,
     "url": "https://github.com/ibnux/POCIndonesia/releases/download/64/NuxLauncher_15.apk"
+  },
+  "Erdioo" : {
+    "version" : 1,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/95/Erdioo-release_1.apk"
   }
 }
