@@ -63,5 +63,10 @@
     "name": "Nux Launcher",
     "version": 16,
     "url": "https://github.com/ibnux/POCIndonesia/releases/download/71/NuxLauncher_16.apk"
+  },
+  "net.nuxradio": {
+    "name": "Erdioo",
+    "version": 1,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/95/Erdioo-release_1.apk"
   }
 }
