@@ -64,6 +64,11 @@
     "version": 95,
     "url": "https://github.com/ibnux/POCIndonesia/releases/download/95/pocnux-release_95.apk"
   },
+  "com.ibnux.poc.bisnis": {
+    "name": "POC BISNIS/PARTNER",
+    "version": 95,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/95/pocbisnis-release_95.apk"
+  },
   "com.ibnux.launcher": {
     "name": "Nux Launcher",
     "version": 16,
