@@ -1,68 +1,68 @@
 {
   "com.ibnux.pocindonesia": {
     "name": "INDONESIA",
-    "version": 98,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/98/pocindonesia-release_98.apk"
+    "version": 99,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/99/pocindonesia-release_99.apk"
   },
   "com.ibnux.pocindonesia.osaka": {
     "name": "INDONESIA OSAKA",
-    "version": 98,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/98/pocindonesiaosaka-release_98.apk"
+    "version": 99,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/99/pocindonesiaosaka-release_99.apk"
   },
   "com.ibnux.pocbanten": {
     "name": "BANTEN",
-    "version": 98,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/98/pocbanten-release_98.apk"
+    "version": 99,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/99/pocbanten-release_99.apk"
   },
   "com.ibnux.poc.dekgus": {
     "name": "DEKGUS",
-    "version": 98,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/98/dekgus-release_98.apk"
+    "version": 99,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/99/dekgus-release_99.apk"
   },
   "com.ibnux.poc.kom2bali": {
     "name": "KOM2BALI",
-    "version": 98,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/98/kom2bali-release_98.apk"
+    "version": 99,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/99/kom2bali-release_99.apk"
   },
   "com.ibnux.poc.asf": {
     "name": "ASF NUSANTARA",
-    "version": 98,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/98/asf-release_98.apk"
+    "version": 99,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/99/asf-release_99.apk"
   },
   "com.ibnux.poc.rapi.kutim": {
     "name": "RAPI KUTIM",
-    "version": 98,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/98/rapikutim-release_98.apk"
+    "version": 99,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/99/rapikutim-release_99.apk"
   },
   "com.ibnux.poc.btb.baznas": {
     "name": "BTB BAZNAS",
-    "version": 98,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/98/btbbaznas-release_98.apk"
+    "version": 99,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/99/btbbaznas-release_99.apk"
   },
   "com.ibnux.poc.sht.poc": {
     "name": "SHT POC COMMUNITY",
-    "version": 98,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/98/shtpoc-release_98.apk"
+    "version": 99,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/99/shtpoc-release_99.apk"
   },
   "com.ibnux.poc.global": {
     "name": "POC GLOBAL",
-    "version": 98,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/98/pocglobal-release_98.apk"
+    "version": 99,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/99/pocglobal-release_99.apk"
   },
   "com.loudtalks": {
     "name": "POC Indonesia Loudtalks",
-    "version": 98,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/98/loudtalks-release_98.apk"
+    "version": 99,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/99/loudtalks-release_99.apk"
   },
   "com.ibnux.poc.lite": {
     "name": "POC NUX",
-    "version": 98,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/98/pocnux-release_98.apk"
+    "version": 99,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/99/pocnux-release_99.apk"
   },
   "com.ibnux.poc.bisnis": {
     "name": "POC BISNIS/PARTNER",
-    "version": 98,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/98/pocbisnis-release_98.apk"
+    "version": 99,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/99/pocbisnis-release_99.apk"
   },
   "com.ibnux.launcher": {
     "name": "Nux Launcher",
@@ -72,6 +72,6 @@
   "net.nuxradio": {
     "name": "Erdioo",
     "version": 1,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/98/Erdioo-release_1.apk"
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/99/Erdioo-release_1.apk"
   }
 }
