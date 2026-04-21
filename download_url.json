@@ -1,43 +1,43 @@
 {
   "INDONESIA" : {
-    "version" : 97,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/97/pocindonesia-release_97.apk"
+    "version" : 99,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/99/pocindonesia-release_99.apk"
   },
   "INDONESIA OSAKA" : {
-    "version" : 97,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/97/pocindonesiaosaka-release_97.apk"
+    "version" : 99,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/99/pocindonesiaosaka-release_99.apk"
   },
   "BANTEN" : {
-    "version" : 97,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/97/pocbanten-release_97.apk"
+    "version" : 99,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/99/pocbanten-release_99.apk"
   },
   "DEKGUS" : {
-    "version" : 97,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/97/dekgus-release_97.apk"
+    "version" : 99,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/99/dekgus-release_99.apk"
   },
   "KOM2BALI" : {
-    "version" : 97,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/97/kom2bali-release_97.apk"
+    "version" : 99,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/99/kom2bali-release_99.apk"
   },
   "ASF NUSANTARA" : {
-    "version" : 97,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/97/asf-release_97.apk"
+    "version" : 99,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/99/asf-release_99.apk"
   },
   "RAPI KUTIM" : {
-    "version" : 97,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/97/rapikutim-release_97.apk"
+    "version" : 99,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/99/rapikutim-release_99.apk"
   },
   "BTB BAZNAS" : {
-    "version" : 97,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/97/btbbaznas-release_97.apk"
+    "version" : 99,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/99/btbbaznas-release_99.apk"
   },
   "HT POC COMMUNITY" : {
-    "version" : 97,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/97/shtpoc-release_97.apk"
+    "version" : 99,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/99/shtpoc-release_99.apk"
   },
   "POC NUX": {
-    "version": 97,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/97/pocnux-release_97.apk"
+    "version": 99,
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/99/pocnux-release_99.apk"
   },
   "Nux Launcher" : {
     "version" : 15,
@@ -45,6 +45,6 @@
   },
   "Erdioo" : {
     "version" : 1,
-    "url": "https://github.com/ibnux/POCIndonesia/releases/download/97/Erdioo-release_1.apk"
+    "url": "https://github.com/ibnux/POCIndonesia/releases/download/99/Erdioo-release_1.apk"
   }
 }
