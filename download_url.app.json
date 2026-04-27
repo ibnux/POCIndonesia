@@ -1,0 +1,47 @@
+{
+	"com.ibnux.pocindonesia": {
+		"name": "INDONESIA",
+		"version": 99,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/99/pocindonesia-release_99.apk"
+	},
+	"com.ibnux.pocindonesia.osaka": {
+		"name": "INDONESIA OSAKA",
+		"version": 99,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/99/pocindonesiaosaka-release_99.apk"
+	},
+	"com.ibnux.pocbanten": {
+		"name": "BANTEN",
+		"version": 99,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/99/pocbanten-release_99.apk"
+	},
+	"com.ibnux.poc.global": {
+		"name": "POC GLOBAL",
+		"version": 99,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/99/pocglobal-release_99.apk"
+	},
+	"com.loudtalks": {
+		"name": "POC Indonesia Loudtalks",
+		"version": 99,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/99/loudtalks-release_99.apk"
+	},
+	"com.ibnux.poc.lite": {
+		"name": "POC NUX",
+		"version": 99,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/99/pocnux-release_99.apk"
+	},
+	"com.ibnux.poc.bisnis": {
+		"name": "POC BISNIS/PARTNER DEMO",
+		"version": 99,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/99/pocbisnis-release_99.apk"
+	},
+	"com.ibnux.launcher": {
+		"name": "Nux Launcher",
+		"version": 16,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/71/NuxLauncher_16.apk"
+	},
+	"net.nuxradio": {
+		"name": "Erdioo",
+		"version": 1,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/99/Erdioo-release_1.apk"
+	}
+}
