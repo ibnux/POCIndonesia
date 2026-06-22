@@ -1,43 +1,43 @@
 {
 	"INDONESIA": {
-		"version": 104,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/104/pocindonesia-release_104.apk"
+		"version": 103,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/103/pocindonesia-release_103.apk"
 	},
 	"INDONESIA OSAKA": {
-		"version": 104,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/104/pocindonesiaosaka-release_104.apk"
+		"version": 103,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/103/pocindonesiaosaka-release_103.apk"
 	},
 	"BANTEN": {
-		"version": 104,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/104/pocbanten-release_104.apk"
+		"version": 103,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/103/pocbanten-release_103.apk"
 	},
 	"DEKGUS": {
-		"version": 104,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/104/dekgus-release_104.apk"
+		"version": 103,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/103/dekgus-release_103.apk"
 	},
 	"KOM2BALI": {
-		"version": 104,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/104/kom2bali-release_104.apk"
+		"version": 103,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/103/kom2bali-release_103.apk"
 	},
 	"ASF NUSANTARA": {
-		"version": 104,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/104/asf-release_104.apk"
+		"version": 103,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/103/asf-release_103.apk"
 	},
 	"RAPI KUTIM": {
-		"version": 104,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/104/rapikutim-release_104.apk"
+		"version": 103,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/103/rapikutim-release_103.apk"
 	},
 	"BTB BAZNAS": {
-		"version": 104,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/104/btbbaznas-release_104.apk"
+		"version": 103,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/103/btbbaznas-release_103.apk"
 	},
 	"HT POC COMMUNITY": {
-		"version": 104,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/104/shtpoc-release_104.apk"
+		"version": 103,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/103/shtpoc-release_103.apk"
 	},
 	"POC NUX": {
-		"version": 104,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/104/pocnux-release_104.apk"
+		"version": 103,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/103/pocnux-release_103.apk"
 	},
 	"Nux Launcher": {
 		"version": 15,
@@ -45,6 +45,6 @@
 	},
 	"Erdioo": {
 		"version": 37,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/104/Erdioo-release_37.apk"
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/103/Erdioo-release_37.apk"
 	}
 }
