@@ -83,5 +83,15 @@
 		"name": "Erdioo",
 		"version": 37,
 		"url": "https://github.com/ibnux/POCIndonesia/releases/download/105/Erdioo-release_37.apk"
+	},
+	"com.ibnux.browser": {
+		"name": "Nux Browser",
+		"version": 1,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/105/NuxBrowser.apk"
+	},
+	"com.ibnux.minibrowser": {
+		"name": "Nux Browser Mini",
+		"version": 1,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/105/NuxMiniBrowser.apk"
 	}
 }
