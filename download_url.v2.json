@@ -1,78 +1,78 @@
 {
 	"com.ibnux.pocindonesia": {
 		"name": "INDONESIA",
-		"version": 106,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/106/pocindonesia-release_106.apk"
+		"version": 107,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/107/pocindonesia-release_107.apk"
 	},
 	"com.ibnux.pocindonesia.osaka": {
 		"name": "INDONESIA OSAKA",
-		"version": 106,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/106/pocindonesiaosaka-release_106.apk"
+		"version": 107,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/107/pocindonesiaosaka-release_107.apk"
 	},
 	"com.ibnux.pocind": {
 		"name": "POC IND",
-		"version": 106,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/106/pocind-release_106.apk"
+		"version": 107,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/107/pocind-release_107.apk"
 	},
 	"com.ibnux.pocid.partner": {
 		"name": "POC ID PARTNER",
-		"version": 106,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/106/pocidpartner-release_106.apk"
+		"version": 107,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/107/pocidpartner-release_107.apk"
 	},
 	"com.ibnux.pocbanten": {
 		"name": "BANTEN",
-		"version": 106,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/106/pocbanten-release_106.apk"
+		"version": 107,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/107/pocbanten-release_107.apk"
 	},
 	"com.ibnux.poc.dekgus": {
 		"name": "DEKGUS",
-		"version": 106,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/106/dekgus-release_106.apk"
+		"version": 107,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/107/dekgus-release_107.apk"
 	},
 	"com.ibnux.poc.kom2bali": {
 		"name": "KOM2BALI",
-		"version": 106,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/106/kom2bali-release_106.apk"
+		"version": 107,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/107/kom2bali-release_107.apk"
 	},
 	"com.ibnux.poc.asf": {
 		"name": "ASF NUSANTARA",
-		"version": 106,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/106/asf-release_106.apk"
+		"version": 107,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/107/asf-release_107.apk"
 	},
 	"com.ibnux.poc.rapi.kutim": {
 		"name": "RAPI KUTIM",
-		"version": 106,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/106/rapikutim-release_106.apk"
+		"version": 107,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/107/rapikutim-release_107.apk"
 	},
 	"com.ibnux.poc.btb.baznas": {
 		"name": "BTB BAZNAS",
-		"version": 106,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/106/btbbaznas-release_106.apk"
+		"version": 107,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/107/btbbaznas-release_107.apk"
 	},
 	"com.ibnux.poc.sht.poc": {
 		"name": "SHT POC COMMUNITY",
-		"version": 106,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/106/shtpoc-release_106.apk"
+		"version": 107,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/107/shtpoc-release_107.apk"
 	},
 	"com.ibnux.poc.global": {
 		"name": "POC GLOBAL",
-		"version": 106,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/106/pocglobal-release_106.apk"
+		"version": 107,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/107/pocglobal-release_107.apk"
 	},
 	"com.loudtalks": {
 		"name": "POC Indonesia Loudtalks",
-		"version": 106,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/106/loudtalks-release_106.apk"
+		"version": 107,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/107/loudtalks-release_107.apk"
 	},
 	"com.ibnux.poc.lite": {
 		"name": "POC NUX",
-		"version": 106,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/106/pocnux-release_106.apk"
+		"version": 107,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/107/pocnux-release_107.apk"
 	},
 	"com.ibnux.poc.bisnis": {
 		"name": "POC BISNIS/PARTNER",
-		"version": 106,
-		"url": "https://github.com/ibnux/POCIndonesia/releases/download/106/pocbisnis-release_106.apk"
+		"version": 107,
+		"url": "https://github.com/ibnux/POCIndonesia/releases/download/107/pocbisnis-release_107.apk"
 	},
 	"com.ibnux.launcher": {
 		"name": "Nux Launcher",
